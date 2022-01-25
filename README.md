@@ -7,7 +7,7 @@ In order to run this monorepo you'll need the following software to be installed
 * Make: Not mandatory but recommended for fiddling in the command line
 * Golang 1.16
 
-> Everything has been tested under Ubuntu 20.1
+> Everything has been tested under Ubuntu 20.04.3
 
 ## Quickstart
 
